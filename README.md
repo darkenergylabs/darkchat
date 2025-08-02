@@ -23,4 +23,4 @@ DarkChat uses relay nodes hosted on hardened servers in Iceland. No logs. No use
 
 ---
 
-🔗 [darkenergylabs.com](https://darkenergylabs.com) | Signal: [Message Us](https://signal.me/#eu/2vzaPxZKK1KAENc_ERVxuYcAUYw44IB-2CYqfRFMW0brrc_gimdOIIgYQfLAA5Js)
+🔗 [darkenergylabs.com](https://darkenergylabs.io) | Signal: [darkenergylabs.11]
